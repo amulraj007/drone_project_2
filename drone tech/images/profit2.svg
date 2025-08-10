@@ -1,0 +1,22 @@
+<svg width="81" height="81" viewBox="0 0 81 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Time Savings in Farmmanagement">
+<path id="Vector" d="M40.5002 65.4992C35.5557 65.4992 30.7222 64.033 26.6109 61.286C22.4997 58.5389 19.2954 54.6345 17.4032 50.0663C15.511 45.4982 15.0159 40.4715 15.9806 35.622C16.9452 30.7724 19.3262 26.3179 22.8225 22.8216C26.3188 19.3252 30.7734 16.9442 35.6229 15.9796C40.4725 15.015 45.4991 15.51 50.0673 17.4022C54.6354 19.2944 58.5399 22.4987 61.2869 26.61C64.034 30.7212 65.5002 35.5547 65.5002 40.4992C65.5002 47.1296 62.8663 53.4885 58.1779 58.1769C53.4895 62.8653 47.1306 65.4992 40.5002 65.4992ZM40.5002 65.4992C38.9003 60.4118 35.7155 55.9694 31.4111 52.8209C27.1066 49.6724 21.9082 47.9829 16.5752 47.9992M40.5002 65.4992C42.1001 60.4118 45.2849 55.9694 49.5893 52.8209C53.8937 49.6724 59.0922 47.9829 64.4252 47.9992M40.5002 78.3742C50.5499 78.3742 60.1887 74.3854 67.2996 67.2839C74.4104 60.1824 78.4119 50.5489 78.4252 40.4992M40.5002 2.57422C30.4419 2.57422 20.7955 6.56988 13.6832 13.6822C6.57085 20.7945 2.5752 30.4409 2.5752 40.4992M29.6002 40.3242L40.5002 40.4992L40.7002 22.5492" stroke="url(#paint0_linear_7742_106180)" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_7742_106180" x1="40.5002" y1="79.6742" x2="40.5002" y2="1.32422" gradientUnits="userSpaceOnUse">
+<stop stop-color="#64B68E" stop-opacity="0"/>
+<stop offset="0.03" stop-color="#64B68E" stop-opacity="0.05"/>
+<stop offset="0.09" stop-color="#64B68E" stop-opacity="0.2"/>
+<stop offset="0.16" stop-color="#64B68E" stop-opacity="0.44"/>
+<stop offset="0.25" stop-color="#64B68E" stop-opacity="0.77"/>
+<stop offset="0.3" stop-color="#64B68E"/>
+<stop offset="0.31" stop-color="#5FAF90"/>
+<stop offset="0.34" stop-color="#4D9495"/>
+<stop offset="0.38" stop-color="#3E7E9A"/>
+<stop offset="0.42" stop-color="#336D9E"/>
+<stop offset="0.47" stop-color="#2B62A0"/>
+<stop offset="0.54" stop-color="#265BA2"/>
+<stop offset="0.73" stop-color="#2559A2"/>
+</linearGradient>
+</defs>
+</svg>

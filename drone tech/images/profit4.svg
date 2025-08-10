@@ -1,0 +1,15 @@
+<svg width="81" height="80" viewBox="0 0 81 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Reduction in crop loss icon 1">
+<path id="Vector" d="M40.5 16V66M50 28.5C39.75 28.5 40.5 41.5 40.5 41.5C40.5 41.5 41.25 28.5 31 28.5M14 67C7 60 2.5 50.5 2.5 39.75C2.5 29 6.75 19.75 13.5 13M67.25 13C74 19.75 78.25 29.25 78.25 39.75C78.25 50.25 74 59.75 67.25 66.5M57.75 30.5V65.75M64.75 39.75C57.25 39.75 57.75 49.25 57.75 49.25C57.75 49.25 58.25 39.75 50.75 39.75M23.25 30.5V65.75M30.25 39.75C22.75 39.75 23.25 49.25 23.25 49.25C23.25 49.25 23.75 39.75 16.25 39.75" stroke="url(#paint0_linear_8865_107178)" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_8865_107178" x1="40.5" y1="68.25" x2="40.5" y2="11.75" gradientUnits="userSpaceOnUse">
+<stop stop-color="#40B78B" stop-opacity="0.2"/>
+<stop offset="0.2" stop-color="#40B78B" stop-opacity="0.8"/>
+<stop offset="0.3" stop-color="#299695"/>
+<stop offset="0.4" stop-color="#0E6FA2"/>
+<stop offset="0.5" stop-color="#015CA8"/>
+<stop offset="0.7" stop-color="#005BA9"/>
+</linearGradient>
+</defs>
+</svg>

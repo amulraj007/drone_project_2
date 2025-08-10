@@ -1,0 +1,25 @@
+<svg width="81" height="80" viewBox="0 0 81 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Increase Crop Yeild by 30" clip-path="url(#clip0_7742_106175)">
+<path id="Vector" d="M16.3752 4.19922V77.4992M16.3752 38.5992C16.3752 38.5992 15.5002 21.2242 29.1752 21.2242M16.3752 67.2242C16.3752 67.2242 15.5002 49.8492 29.1752 49.8492M3.5752 35.2992C17.3502 35.2992 16.3502 52.7992 16.3502 52.7992M44.8752 21.2242V77.4992M44.8752 67.2492C44.8752 67.2492 43.8752 49.8742 57.6502 49.8742M32.0752 35.2992C45.8502 35.2992 44.8502 52.7992 44.8502 52.7992M71.5252 77.4992V39.2742M58.7252 62.0742C72.5002 62.0742 71.5252 79.4242 71.5252 79.4242" stroke="url(#paint0_linear_7742_106175)" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_7742_106175" x1="37.5502" y1="80.6742" x2="37.5502" y2="2.94922" gradientUnits="userSpaceOnUse">
+<stop stop-color="#64B68E" stop-opacity="0"/>
+<stop offset="0.03" stop-color="#64B68E" stop-opacity="0.05"/>
+<stop offset="0.09" stop-color="#64B68E" stop-opacity="0.2"/>
+<stop offset="0.16" stop-color="#64B68E" stop-opacity="0.44"/>
+<stop offset="0.25" stop-color="#64B68E" stop-opacity="0.77"/>
+<stop offset="0.3" stop-color="#64B68E"/>
+<stop offset="0.31" stop-color="#5FAF90"/>
+<stop offset="0.34" stop-color="#4D9495"/>
+<stop offset="0.38" stop-color="#3E7E9A"/>
+<stop offset="0.42" stop-color="#336D9E"/>
+<stop offset="0.47" stop-color="#2B62A0"/>
+<stop offset="0.54" stop-color="#265BA2"/>
+<stop offset="0.73" stop-color="#2559A2"/>
+</linearGradient>
+<clipPath id="clip0_7742_106175">
+<rect width="80" height="80" fill="white" transform="translate(0.5)"/>
+</clipPath>
+</defs>
+</svg>
